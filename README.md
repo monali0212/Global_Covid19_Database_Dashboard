@@ -1,6 +1,6 @@
 # Global COVID-19 Database Dashboard
 
-![Dashboard Screenshot](link-to-your-dashboard-screenshot)
+![Dashboard Screenshot](Covid.PNG)
 
 ## Table of Contents
 1. [Introduction](#introduction)
